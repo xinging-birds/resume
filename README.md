@@ -1,4 +1,4 @@
 # Justin's Resume
 Repository hosting online version of resume.
 
-LaTeX template taken from [https://github.com/posquito/Awesome-CV](Awesome CV).
+LaTeX template taken from [Awesome CV](https://github.com/posquit0/Awesome-CV).
